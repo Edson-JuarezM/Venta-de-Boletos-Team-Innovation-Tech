@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Super-Champiñones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e43838d7e988751d6f661c73f8e955c4c9554d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Super-Champiñones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Super-Champiñones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

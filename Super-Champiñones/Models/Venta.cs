@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Super_Champiñones.Dto;
+using System.ComponentModel.DataAnnotations;
 
 namespace Super_Champiñones.Models
 {
@@ -7,8 +8,8 @@ namespace Super_Champiñones.Models
         [Key]
         public int Id { get; set; }
         public int NroRecibo { get; set;}
-        public string? Sector { get; set; }
-        public DateTime Fecha_Hora { get; set; }
+        public SectorEnum? Sector { get; set; }
+        public DateTime Fecha { get; set; }
 
         public int UsuarioId { get; set; }
         public int MiembroVipId { get; set; }

@@ -109,6 +109,7 @@ C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\Super-Champiñ
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\Super-Champiñones.MvcApplicationPartsAssemblyInfo.cache
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\Super-Champiñones.RazorAssemblyInfo.cache
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\Super-Champiñones.RazorAssemblyInfo.cs
+C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\Super-Champiñones.sourcelink.json
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\staticwebassets.build.json
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\staticwebassets.development.json
 C:\Project\Super-Champiñones\Super-Champiñones\obj\Debug\net8.0\staticwebassets\msbuild.Super-Champiñones.Microsoft.AspNetCore.StaticWebAssets.props
