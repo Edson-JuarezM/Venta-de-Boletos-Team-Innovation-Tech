@@ -7,11 +7,11 @@ namespace Super_Champiñones.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required,MinLength(5)]
+        [Required, MinLength(5)]
         public string? Email { get; set; }
-        [Required,MinLength(4)] 
+        [Required, MinLength(4)] 
         public string? Password { get; set; }
-        [Required,MinLength(3)]
+        [Required, MinLength(3)]
         public string? Nombre { get; set; }
 
         public RolEnum? Rol { get; set; }

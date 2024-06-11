@@ -5,7 +5,8 @@ namespace Super_Champiñones.Contexto
 {
     public class MyContext:DbContext
     {
-        public MyContext(DbContextOptions options):base(options) { 
+        public MyContext(DbContextOptions options):base(options) {
+            
         }
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Miembro_Vip> Miembro_Vips { get; set; }
