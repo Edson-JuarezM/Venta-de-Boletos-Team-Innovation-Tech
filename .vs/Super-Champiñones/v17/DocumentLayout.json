@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Project\\Super-Champi\u00F1ones\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\models\\partido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\dto\\sectorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\dto\\sectorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\migrations\\20240606214310_segundamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\migrations\\20240606214310_segundamigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\controllers\\partidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\controllers\\partidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\dto\\sectorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\dto\\sectorenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\models\\miembro-vip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|c:\\project\\super-champi\u00F1ones\\super-champi\u00F1ones\\super-champi\u00F1ones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FE3ED5C0-AC8D-4694-B2CC-EBC1AAABC52B}|Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj|solutionrelative:super-champi\u00F1ones\\super-champi\u00F1ones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,49 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240608210123_TerceraMigracion.cs",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Migrations\\20240608210123_TerceraMigracion.cs",
+              "DocumentIndex": 3,
+              "Title": "PartidosController.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\PartidosController.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Controllers\\PartidosController.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\PartidosController.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Controllers\\PartidosController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:01:24.033Z",
+              "WhenOpened": "2024-06-11T00:51:09.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240606214310_SegundaMigracion.cs",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Migrations\\20240606214310_SegundaMigracion.cs",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Migrations\\20240606214310_SegundaMigracion.cs",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Migrations\\20240606214310_SegundaMigracion.cs",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Migrations\\20240606214310_SegundaMigracion.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T21:43:10.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SectorEnum.cs",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T21:36:14.47Z",
+              "WhenOpened": "2024-06-11T00:50:45.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:37:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MyContext.cs",
               "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Contexto\\MyContext.cs",
               "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Contexto\\MyContext.cs",
@@ -104,20 +105,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Partido.cs",
               "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Partido.cs",
               "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Partido.cs",
               "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Partido.cs",
               "RelativeToolTip": "Super-Champi\u00F1ones\\Models\\Partido.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADgvw0AAAAqAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T19:55:22.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Usuario.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:36:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Venta.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Venta.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Models\\Venta.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:47:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SectorEnum.cs",
+              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
+              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
+              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
+              "RelativeToolTip": "Super-Champi\u00F1ones\\Dto\\SectorEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T21:36:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Miembro-Vip.cs",
               "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Miembro-Vip.cs",
               "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Miembro-Vip.cs",
@@ -129,31 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Venta.cs",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Venta.cs",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Venta.cs",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Models\\Venta.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA5wBAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:47:55.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Models\\Usuario.cs",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:36:38.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Program.cs",
               "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Program.cs",
@@ -162,18 +177,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T20:14:35.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Super-Champi\u00F1ones.csproj",
-              "DocumentMoniker": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj",
-              "RelativeDocumentMoniker": "Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj",
-              "ToolTip": "C:\\Project\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj",
-              "RelativeToolTip": "Super-Champi\u00F1ones\\Super-Champi\u00F1ones.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T19:45:26.861Z"
             }
           ]
         }
